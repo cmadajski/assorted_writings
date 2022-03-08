@@ -22,6 +22,8 @@ have any impact on the pursuit of eudaimonia.
 
 ## The Four Virtues in Detail
 
+WIP
 
+## The Four Vices in Detail
 
-# The Four Vices in Detail
+WIP
