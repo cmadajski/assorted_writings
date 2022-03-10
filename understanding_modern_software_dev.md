@@ -22,9 +22,8 @@ The primary categories of CI/CD include:
 Devs used to create separate branches to build new functions for an app. This could get messy when lots of devs have separate branches with lots of changes that would lead to confusing merge conflicts. To solve this problem continuous integration pushes devs to merge as often as possible. The basic logic:
 ```mermaid
 graph LR;
-A[dev makes code changes] -->|merge request| B[CI tests run]
-B --> C{tests pass}
-C -->|true| D[branch merged with main]
-C -->|false| E[merge rejected]
-E --> A
+A[dev makes code changes] -->|merge request| B{CI Tests run}
+B -->|tests pass| C[branch merged with main]
+B -->|tests fail| D[merge rejected]
+D --> A
 ```
