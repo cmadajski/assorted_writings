@@ -5,7 +5,7 @@ Modern programming can be a confusing mess if proper organizational patterns are
 
 The first solution is the concept of DevOps culture. DevOps is the integration of development (building an application) and operations (running and maintaining the application) branches of a tech team. This strategy makes communication a top priority and minimizes the "blame game" that occurs when applications break.
 
-The second solution is the use of automation to streamline software development. Automation is a super broad topic, but it can usually be condensed into the idea of CI/CD (continuous integration/continuous delivery). CI/CD is somewhat confusing because it covers much more than 2 ideas. Furthur explanations will be shown below.
+The second solution is the use of automation to streamline software development. Automation is a super broad topic, but it can usually be condensed into the idea of CI/CD (continuous integration/continuous delivery). CI/CD speeds up and simplifies the dev process by encouraging fast bug-fixes and new feature implementations. CI/CD is somewhat confusing because it covers much more than the two implied abbreviations.
 
 ## Explaining CI/CD
 The primary categories of CI/CD include:
@@ -38,3 +38,7 @@ Continuous delivery is sort of like deployment, but to an intermediate environme
 In a way, continuous delivery is an insurance policy that double checks that the new code is adequate to be released into the wild (production).
 
 ### Continuous Deployment
+If new software has passed the gauntlet of tests thrown at it, then continuous deployment automates the process of getting it up and running on a production server. The public can now access the service and monitoring tools begin tracking data.
+
+### The Cycle Continues
+Either the introduction of new features or unveiling of new bugs will restart the whole pipeline. Devs will submit new/revised code and go through the process again.
