@@ -42,3 +42,8 @@ If new software has passed the gauntlet of tests thrown at it, then continuous d
 
 ### The Cycle Continues
 Either the introduction of new features or unveiling of new bugs will restart the whole pipeline. Devs will submit new/revised code and go through the process again.
+
+### Popular CI/CD Tools
+- [Jenkins](https://www.jenkins.io/)
+- [Github Actions](https://github.com/features/actions)
+- [CircleCI](https://circleci.com/)
