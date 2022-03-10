@@ -16,7 +16,7 @@ The primary categories of CI/CD include:
 - continuous deployment
 
 ### Continuous Testing
-
+WIP
 
 ### Continuous Integration
 Devs used to create separate branches to build new functions for an app. This could get messy when lots of devs have separate branches with lots of changes that would lead to confusing merge conflicts. To solve this problem continuous integration pushes devs to merge as often as possible. The basic logic:
@@ -27,3 +27,14 @@ B -->|tests pass| C[branch merged with main]
 B -->|tests fail| D[merge rejected]
 D --> A
 ```
+
+### Continuous Delivery
+Continuous delivery is sort of like deployment, but to an intermediate environment (staging or testing) instead of a production environment (the public Internet) It encompasses 3 main elements:
+
+- automated environment configuration
+- deployment to staging/testing
+- larger scope testing (acceptance and end-to-end)
+
+In a way, continuous delivery is an insurance policy that double checks that the new code is adequate to be released into the wild (production).
+
+### Continuous Deployment
