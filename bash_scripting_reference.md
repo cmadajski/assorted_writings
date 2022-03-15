@@ -20,11 +20,20 @@ variableBool = true
 -ge (greater than or equal to)
 
 ## Conditionals
+#### if then else
+```
+if [ $variable -le 5 ]
+then
+    echo "instructions go here"
+else
+    echo "more instructions"
+fi
+```
 
 ## Looping
 #### For loop
 ```
-for item in array
+for item in someList
 do
     echo "instructions go here"
 done
@@ -34,6 +43,28 @@ done
 for (( i=0;i<=5;i++ ))
 do
     echo "instructions go here"
+done
+```
+#### For loop with range
+For a range with default step of 1:
+```
+for value in {1..5}
+do
+    echo $value
+done
+```
+For a range with custom step:
+```
+for value in {0..10..2}
+do
+    echo $value
+done
+```
+Negative step is automatically applied:
+```
+for value in {10..0..2}
+do
+    echo $value
 done
 ```
 #### While loop
