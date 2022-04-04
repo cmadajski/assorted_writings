@@ -63,3 +63,9 @@ Factors Influencing Brix
 2. Water
 3. Air
 4. Nutrients
+
+Brix Levels Where Insects Lose Interest
+Aphids: 6-8
+Sucking Insects: 7-9
+Chewing Insects: 9-11
+Grasshoppers: 10-12
