@@ -30,4 +30,36 @@ would take place over much greater time scales. The key
 point to understand here is that insects are part of the
 clean up crew for the biological world.
 
-Switching gears to plants, 
+Switching gears to plants... [WIP]
+
+Quantitative Plant Health
+So how do we assess if a plant is healthy? The common indicators 
+used are:
+- is it tall?
+- does it grow fast?
+- is it green?
+- is is DARK green?
+- does it produce a lot of yield?
+
+All of these indicators are insufficient for understanding a 
+plant's health. The quickest and easiest way to diagnose a
+plant's health status is using brix. Brix uses light to 
+approximate the amount of sugar currently flowing through 
+a plant's vascular system (as sap). We now know that plants
+are essentially solar factories that use sunlight to capture
+carbon to synthesize compounds. This carbon is transported as 
+"sugars" in the sap. The more sugar in the sap, the more the
+plant is fulfilling its purpose and the healthier/more resilient
+the plant will be.
+
+Plant Brix Levels
+1-2: barely alive, force-feeding required for survival
+2-8: alive, but vulnerable, lack 
+8-12: partially independent, partial insect resistance
+12+: completely independent, high insect resistance
+
+Factors Influencing Brix
+1. Sunlight
+2. Water
+3. Air
+4. Nutrients
