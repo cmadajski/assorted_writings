@@ -60,4 +60,15 @@ that measures weight in grams.
 3. Pour water over the vegetables in the container
 4. Write down the combined weight of the vegetables and water
 5. Multiply that weight by 0.02 for 2% or 0.03 for 3% brines
-6. The resulting number is the grams of salt you need 
+6. The resulting number is the weight in grams of salt you need
+
+### UV Light Exposure
+
+WIP
+
+### Desireable Ambient Temperature
+
+Bacteria are most active at temperatures between 60 and 75 degrees
+Fahrenheit. 
+
+WIP
