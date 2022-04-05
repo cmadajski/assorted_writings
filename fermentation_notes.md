@@ -1,4 +1,4 @@
-#Thoughts on Fermentation for Human Nourishment
+# Thoughts on Fermentation for Human Nourishment
 
 ## Why Is Fermentation Necessary At All?
 
