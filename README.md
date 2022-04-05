@@ -11,3 +11,5 @@ have to wait until some later date.
 - Physical Training
 - Basic Food/Culinary
 - Philosophy
+- Software Engineering
+- Web Technologies
