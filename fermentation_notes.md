@@ -1,7 +1,6 @@
-Thoughts on Fermentation for Human Nourishment
-===============================================
+#Thoughts on Fermentation for Human Nourishment
 
-# Why Is Fermentation Necessary At All?
+## Why Is Fermentation Necessary At All?
 
 Fermentation is certainly not necessary for human existence, but it
 does solve a few food-related problems in a very accessible and 
@@ -16,7 +15,7 @@ environment
 - producing novel chemical compounds, some of which have positive
 impacts on human function
 
-# How Does Fermentation Work?
+## How Does Fermentation Work?
 
 Fermentation is the process of using microbial organisms to process
 a food product into a new state that is beneficial for human 
@@ -25,7 +24,7 @@ plant material, but can also be used on animal products in
 special circumstances. For the purposes of this document, only 
 plant fermentation will be discussed.
 
-# The Practical Aspects of Fermentation
+## The Practical Aspects of Fermentation
 
 The most important factors to consider during vegetable fermentation
 are:
@@ -35,7 +34,7 @@ are:
 - limiting exposure to UV light sources
 - maintaining a desireable ambient temperature (60-75 degrees)
 
-## Maintaining an Anaerobic Environment
+### Maintaining an Anaerobic Environment
 
 To maintain an anaerobic environment, all vegetable material
 must be kept below the water line in whatever container is
@@ -45,7 +44,7 @@ easiest methods are:
 - glass weights (perfect for mason jars)
 - plastic bag filled with water
 
-## Proper Salinity
+### Proper Salinity
 
 You only need to understand the below equation to get the salinity
 just right every time:
