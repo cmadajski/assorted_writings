@@ -1,8 +1,15 @@
 # Christian's Assorted Writings
 
+## Description
 This repo includes a handful of my personal writings on a bunch of
-random topics I often think about. Maybe at some point I'll publish
-some of this in a blog-style website.
+random topics I often think about. The goal is to publish some
+of this information on a blog-style website, but that will
+have to wait until some later date.
 
-I wonder if I will one day come to regret putting this information out
-on the Internet?
+## General Topics
+- Permaculture
+- Physical Training
+- Basic Food/Culinary
+- Philosophy
+- Software Engineering
+- Web Technologies
