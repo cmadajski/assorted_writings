@@ -7,13 +7,16 @@ My training model encompasses three main elements:
 - incorporating problem solving into all training
 
 Things that other humans prioritize that I have chosen not to
-worry about:
+worry about directly:
 - aesthetic considerations
 - what training styles are in fashion
 - being part of an already established community
 - maximizing a single skill at the expense of others
 
+Most of the training priorities shown here are derived from a particular philosophical viewpoint that I find suits my natural biases. They are by no means objective, but they at least have a logical basis. As an introvert, I think I immediately discount the social element of training and that's why it is not included in the priority list (possibly to my detriment). I also have a tendency to prefer the traditional aspects of humanity over the emerging aspects of humanity, which is probably due to the influence of Nassim Taleb (the idea that most new things perish in the face of volatility, while surviving things are more likely to keep surviving). I also base my rationale on what I would consider a more "objective" nature that is largely disconnected from the social constructions that we currently live within. This could be an error, since I'm actively avoiding tactics that are technically viable as long as we continue to exist in the social constructions. However, my disdain for "the matrix" transcends any logical argument so I continue to avoid that line of thinking at all costs.
+
 ## A Quick Description of the Three Elements
+
 ### Training Based on Human Body Structure
 It would seem rational to say that dogs move like they do
 because of how they are structured. If a dog were to have
@@ -75,5 +78,14 @@ real life. If you regularly deal with volatility in training,
 then you become near-unstoppable in real life. Typical scenarios
 that would injure others have no effect on you.
 
-### Training While Problem Solving
+There are also hypertrophy/strength benefits from using volatility to diversify motor unit recruitment, but that topic should be explored separately in another document.
 
+### Problem Solving During Training
+
+Blindly following a set program requires little mental effort in most cases. This is a huge missed opportunity for increasing mental capacity as well as integrating the physical and mental aspects of the human organism. A vast majority of organisms only have movement as a method of acquiring the energy needed to continue existing. If movement was not required, then we could all just become like coral and passively acquire energy from our environment.
+
+Taking a problem-solving approach to training makes training more fun and engaging, especially for those with high openness and ADHD tendencies. Problem solving is also essential for thriving in volatile environments. Considering the trajectory of the world, problem solving is something that should be cultivated in all aspects of life in order to prepare for harsh times. Physical training is a great area in which to develop and express critical thinking, especially since training the body and mind concurrently is the most efficient path for growth.
+
+## It's All Subjective
+
+At the risk of sounding like a hyperliberal nutjob, all of training is subjective. Especially in the modern era, humans don't _need_ to do much of anything in order to acquire energy, security, and socialization. Anything you choose is based on subjective preference and has very little impact on the more sensitive areas of your life. That being said, our bodies do have proclivities based on our evolutionary heritage and we ignore those proclivities at our own peril. We can become super-flexible enlightened yogis or jacked protein-huffing bear-men, but ultimately all those archetypes are disconnected from "reality". We mostly live in a miasma of social constructs, and I wonder how long we can stay in that realm before reality comes crashing back into existence. Maybe we stay here forever. All I know is that if reality returns with a vengeance, leveraging volatility, critical thinking, and human movement is a good insurance policy for not going extinct. Or at the very least, if we are going to go extinct anyways, then I want to put up a good fight.
